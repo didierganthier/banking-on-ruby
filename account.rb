@@ -19,17 +19,11 @@ class Account
     end
   end
 
-  private
-
   def pin
     @pin = 1234
   end
-
-  private
 
   def pin_error
     'Access denied: incorrect PIN.'
   end
 end
-
-checking_account = Account.new('Didier Ganthier Personal Account', '123456789')
