@@ -45,7 +45,7 @@ This project is a simple Ruby class and does not require deployment.
 - [ ] Option to set PIN upon account creation
 - [ ] Option to change PIN
 - [ ] Option to make deposits
-- [ ]Option to transfer funds to other accounts
+- [ ] Option to transfer funds to other accounts
 
 ## 🤝 Contributing
 To contribute to this project, please follow these steps:
